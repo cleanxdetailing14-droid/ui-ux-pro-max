@@ -7,7 +7,7 @@ Claude Code invokes this skill automatically on UI/UX tasks: `plan`, `build`, `d
 ## Install (one command)
 
 ```bash
-git clone https://github.com/<ton-user>/ui-ux-pro-max ~/.claude/skills/ui-ux-pro-max
+git clone https://github.com/cleanxdetailing14-droid/ui-ux-pro-max ~/.claude/skills/ui-ux-pro-max
 ```
 
 Then restart Claude Code (or open a new session). The skill will appear as `ui-ux-pro-max` and auto-load when a UI/UX task is detected.
